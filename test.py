@@ -1,2 +1,2 @@
 print("Hi this is python file inside remote computer!!");
-print("Hey buddy, now it's version is  10");
+print(jkbhkjh"Hey buddy, now it's version is  10");
